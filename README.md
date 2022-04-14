@@ -1,2 +1,2 @@
 # money_conversor
-Front-end project using an money conversor API
+Front-end project using https://www.exchangerate-api.com/ API
